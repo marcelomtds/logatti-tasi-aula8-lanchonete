@@ -1,0 +1,14 @@
+C:\projetos\logatti\csharp\Aula8Lanchonete\FormApp\bin\Debug\FormApp.exe.config
+C:\projetos\logatti\csharp\Aula8Lanchonete\FormApp\bin\Debug\FormApp.exe
+C:\projetos\logatti\csharp\Aula8Lanchonete\FormApp\bin\Debug\FormApp.pdb
+C:\projetos\logatti\csharp\Aula8Lanchonete\FormApp\obj\Debug\FormApp.csprojAssemblyReference.cache
+C:\projetos\logatti\csharp\Aula8Lanchonete\FormApp\obj\Debug\FormApp.Properties.Resources.resources
+C:\projetos\logatti\csharp\Aula8Lanchonete\FormApp\obj\Debug\FormApp.csproj.GenerateResource.cache
+C:\projetos\logatti\csharp\Aula8Lanchonete\FormApp\obj\Debug\FormApp.exe
+C:\projetos\logatti\csharp\Aula8Lanchonete\FormApp\obj\Debug\FormApp.pdb
+C:\projetos\logatti\csharp\Aula8Lanchonete\FormApp\bin\Debug\DB.dll
+C:\projetos\logatti\csharp\Aula8Lanchonete\FormApp\bin\Debug\Model.dll
+C:\projetos\logatti\csharp\Aula8Lanchonete\FormApp\bin\Debug\DB.pdb
+C:\projetos\logatti\csharp\Aula8Lanchonete\FormApp\bin\Debug\Model.pdb
+C:\projetos\logatti\csharp\Aula8Lanchonete\FormApp\obj\Debug\FormApp.csproj.CopyComplete
+C:\projetos\logatti\csharp\Aula8Lanchonete\FormApp\obj\Debug\FormApp.Lanchonete.resources

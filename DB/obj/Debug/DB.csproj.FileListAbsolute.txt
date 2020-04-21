@@ -1,0 +1,8 @@
+C:\projetos\logatti\csharp\Aula8Lanchonete\DB\bin\Debug\DB.dll
+C:\projetos\logatti\csharp\Aula8Lanchonete\DB\bin\Debug\DB.pdb
+C:\projetos\logatti\csharp\Aula8Lanchonete\DB\bin\Debug\Model.dll
+C:\projetos\logatti\csharp\Aula8Lanchonete\DB\bin\Debug\Model.pdb
+C:\projetos\logatti\csharp\Aula8Lanchonete\DB\obj\Debug\DB.csprojAssemblyReference.cache
+C:\projetos\logatti\csharp\Aula8Lanchonete\DB\obj\Debug\DB.csproj.CopyComplete
+C:\projetos\logatti\csharp\Aula8Lanchonete\DB\obj\Debug\DB.dll
+C:\projetos\logatti\csharp\Aula8Lanchonete\DB\obj\Debug\DB.pdb
